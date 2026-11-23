@@ -13,7 +13,7 @@ In diesem Repository sammle ich meine eigenen Lösungen aus den Linux-Laboren: F
 | [01 Fehlersuche bei Diensten](01-fehlersuche-dienste.md) | Dienst startet nicht, Platte voll | systemctl, journalctl, sed, df, du |
 | [02 Automatisierung mit Bash](02-automatisierung-bash.md) | Auswertungen, Platzwarnung, cron | cut, sort, uniq, awk, du, cron |
 | [03 Backup und Prüfsummen](03-backup-und-pruefsummen.md) | Archive, Spiegel, Rotation, Prüfsummen | tar, rsync, sha256sum, xargs |
-| [Bash- und Regex-Übungen](https://github.com/gulerzenginkisaoglu-7838/linux-administration/tree/main/bash-und-regex-uebungen) | Schleifen, Bedingungen, grep | if, for, while, case, grep -E |
+| [Bash- und Regex-Übungen](https://github.com/gulerzenginkisaoglu-7838/linux-server-administration/tree/main/bash-und-regex-uebungen) | Schleifen, Bedingungen, grep | if, for, while, case, grep -E |
 
 ## Was ich dabei gelernt habe
 
